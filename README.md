@@ -9,7 +9,7 @@
 
 
 ### Sobre Mi:  
-### <div align="center">Soy Frank Santos, un desarrollador Full Stack Web Developer 👨💻 apunto de graduarse de Henry, y con muchas ganas de seguir aprendiendo día a día.</div>  
+### <div align="center">Soy Frank Santos, un desarrollador Full Stack Web Developer 👨💻 Graduado de Henry, y con muchas ganas de seguir aprendiendo día a día.</div>  
   
 
 - 🔭 Actualmente estoy trabajando en mis propios proyectos, aprendiendo nuevas tecnologias(https://github.com/Harurin5671)  
