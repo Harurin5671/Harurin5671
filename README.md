@@ -125,13 +125,13 @@ Focus:
 
 ## 🚀 Featured Repositories
 
-[![Realtime Chat](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=test-chat-realtime)](https://github.com/Harurin5671/test-chat-realtime)
+[![Realtime Chat](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=test-chat-realtime)](https://github.com/Harurin5671/test-chat-realtime)
 
-[![Shadow](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=shadow)](https://github.com/Harurin5671/shadow)
+[![Shadow](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=shadow)](https://github.com/Harurin5671/shadow)
 
-[![StepNova](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=StepNova)](https://github.com/Harurin5671/StepNova)
+[![StepNova](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=StepNova)](https://github.com/Harurin5671/StepNova)
 
-[![Hackaton IAMINDS](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=Hackaton-IAMINDS)](https://github.com/Harurin5671/Hackaton-IAMINDS)
+[![Hackaton IAMINDS](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=Hackaton-IAMINDS)](https://github.com/Harurin5671/Hackaton-IAMINDS)
 
 # 🌐 Links
 
