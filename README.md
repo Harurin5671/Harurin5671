@@ -119,7 +119,7 @@ Focus:
 
 # 📊 GitHub Stats
 
-![]([https://github-readme-stats.vercel.app/api?username=Harurin5671&show_icons=true&theme=dark](https://github-readme-activity-graph.vercel.app/graph?username=Harurin5671&theme=github-dark))
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harurin5671&theme=github-dark&hide_border=true)
 
 ---
 
