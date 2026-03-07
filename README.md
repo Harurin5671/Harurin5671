@@ -125,7 +125,7 @@ Focus:
 
 ## 🚀 Featured Repositories
 
-[![Realtime Chat](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=test-chat-realtime)](https://github.com/Harurin5671/test-chat-realtime)
+[![Realtime Chat](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=test-chat-realtime)](https://github.com/Harurin5671/test-chat-realtime.git)
 
 [![Shadow](https://github-readme-stats-mu-five-22.vercel.app/api/pin/?username=Harurin5671&repo=shadow)](https://github.com/Harurin5671/shadow)
 
