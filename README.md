@@ -119,11 +119,19 @@ Focus:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Harurin5671&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harurin5671&layout=compact&theme=dark)
+![]([https://github-readme-stats.vercel.app/api?username=Harurin5671&show_icons=true&theme=dark](https://github-readme-activity-graph.vercel.app/graph?username=Harurin5671&theme=github-dark))
 
 ---
+
+## 🚀 Featured Repositories
+
+[![Realtime Chat](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=test-chat-realtime)](https://github.com/Harurin5671/test-chat-realtime)
+
+[![Shadow](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=shadow)](https://github.com/Harurin5671/shadow)
+
+[![StepNova](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=StepNova)](https://github.com/Harurin5671/StepNova)
+
+[![Hackaton IAMINDS](https://github-readme-stats.vercel.app/api/pin/?username=Harurin5671&repo=Hackaton-IAMINDS)](https://github.com/Harurin5671/Hackaton-IAMINDS)
 
 # 🌐 Links
 
